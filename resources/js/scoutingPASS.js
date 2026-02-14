@@ -219,6 +219,7 @@ function addCounter(table, idx, name, data) {
 	// Prevent double-tap zoom on buttons
     if (type === "button") {
       input.style.touchAction = 'manipulation';
+      input.style.fontSize = '24px';
     }
     return input;
   };
