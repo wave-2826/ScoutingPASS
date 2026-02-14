@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "ScoutingPASS",
+    "short_name": "ScoutingPASS",
+    "description": "ScoutingPASS for Wave",
+    "start_url": "/ScoutingPASS/",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/ScoutingPASS/icon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}

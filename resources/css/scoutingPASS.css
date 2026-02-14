@@ -15,6 +15,10 @@ html, body{
     background-color: black;
 }
 
+.score-buttons {
+    font-size: "380px"
+}
+
 #prematch_table, #postmatch_table {
 
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
