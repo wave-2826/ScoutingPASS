@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026wilax",
+      "defaultValue": "2026wicmp",
       "required": "true"
     },
     { "name": "Match Level",
