@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026wicmp",
+      "defaultValue": "2026arc",
       "required": "true"
     },
     { "name": "Match Level",
